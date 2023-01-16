@@ -1,7 +1,5 @@
 Hi! 👋 I'm Semih Kesgin 
 
-Who am I?
-
 I'm JR. IOS Developer 
 
 I have worked on rocket systems and unmanned aerial vehicle systems for a long time. Then I switched to mobile application development with Dart/Flutter. I am currently working in the field of iOS application development with Swift. 
