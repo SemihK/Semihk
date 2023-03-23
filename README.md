@@ -6,7 +6,7 @@ I have worked on rocket systems and unmanned aerial vehicle systems for a long t
 * 🌍  I'm based in Istanbul 
 * ✉️  You can contact me at [semihkesgin@outlook.com](mailto:semihkesgin@outlook.com) 
 * 🧠  I'm learning SwiftUI
-* 🤝  I'm open to collaborating on in astronomy projects
+* 🤝  I'm open to collaborating on in astronomy projects and openai
 
 <a href="https://www.github.com/SemihK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/SemihK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
