@@ -5,8 +5,8 @@ I'm JR. IOS Developer
 I have worked on rocket systems and unmanned aerial vehicle systems for a long time. Then I switched to mobile application development with Dart/Flutter. I am currently working in the field of iOS application development with Swift. 
 * 🌍  I'm based in Istanbul 
 * ✉️  You can contact me at [here!](mailto:semihkesgin@outlook.com) 
-* 🧠  I'm learning SwiftUI
-* 🤝  I'm open to collaborating on in astronomy and iOS projects.
+* 🧠  I'm Coding Swift
+* 🤝  I'm open to collaborating on in iOS projects.
 
 <a href="https://www.github.com/SemihK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/SemihK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
