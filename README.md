@@ -1,6 +1,6 @@
-Hi! 👋 I'm Semih Kesgin 
+Hi Folks! 👋 I'm Semih Kesgin 
 
-I'm JR. IOS Developer 
+I think I'm a iOS developer.
 
 I have worked on rocket systems and unmanned aerial vehicle systems for a long time. Then I switched to mobile application development with Dart/Flutter. I am currently working in the field of iOS application development with Swift. 
 * 🌍  I'm based in Istanbul 
@@ -15,7 +15,8 @@ I have worked on rocket systems and unmanned aerial vehicle systems for a long t
 
 ### Social
 
- <p align="left"> <a href="https://www.dev.to/semihk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/SemihK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/semihkesgin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+ <p align="left">  <a href="https://www.linkedin.com/in/semihkesgin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+ <a href="https://www.dev.to/semihk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/SemihK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
  
 ### Badges
 
