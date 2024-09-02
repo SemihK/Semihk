@@ -1,10 +1,10 @@
-Hi 👋 
+Hi Folks! 👋 
 
-I am currently working in the field of iOS application development with Swift. 
-* 🌍  I'm based in Istanbul 
+I am currently working on Swift 
+* 🌍  I'm based in Istanbul / Türkiye
 * ✉️  You can contact me at [here!](mailto:semihkesgin@outlook.com) 
-* 👨‍💻  I'm Coding Swift
-* 🤝  I'm open to collaborating on in iOS projects.
+* 👨‍💻  I create a mobile applications with Swift.
+
 
 <a href="https://www.github.com/SemihK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/SemihK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
